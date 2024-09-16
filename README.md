@@ -1,16 +1,16 @@
-## Hi there 👋
+🌟 Hello! I'm Sofia 🌟
 
-<!--
-**tuasofia/tuasofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software enthusiast from beautiful Venezuela, and studying as a sophomore in computer science at PUPR. 🎓✨
 
-Here are some ideas to get you started:
+Here’s a bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌸 Age: 20.
+🌸 University: Polytechnic University of Puerto Rico.
+🌸 Currently in: San Juan.
+🌸 Field of Study: Software dev, Data analysis. 
+
+I'm always eager to learn and collaborate on exciting projects. If you have a cool idea or need help with something, don't hesitate to reach out! Let's create something amazing together. 🚀💻
+
+Feel free to check out my repositories and connect with me. I'm thrilled to be part of this vibrant community!
+
+Happy coding! 💖
