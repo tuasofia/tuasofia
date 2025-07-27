@@ -1,10 +1,10 @@
 🌟 Hello! I'm Sofia 🌟
 
-Welcome to my GitHub profile! I'm a passionate software enthusiast from beautiful Venezuela, and studying as a sophomore in computer science at PUPR. 🎓✨
+Welcome to my GitHub profile! I'm a passionate software enthusiast from beautiful Venezuela, and studying as a junior in computer science at PUPR. 🎓✨
 
 Here’s a bit about me:
 
-🌸 Age: 20.
+🌸 Age: 21.
 🌸 University: Polytechnic University of Puerto Rico.
 🌸 Currently in: San Juan.
 🌸 Field of Study: Software dev, Data analysis. 
