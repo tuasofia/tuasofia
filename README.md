@@ -7,7 +7,7 @@ Here’s a bit about me:
 🌸 Age: 21.
 🌸 University: Polytechnic University of Puerto Rico.
 🌸 Currently in: San Juan.
-🌸 Field of Study: Software dev, Data analysis. 
+🌸 Major: Computer Science
 
 I'm always eager to learn and collaborate on exciting projects. If you have a cool idea or need help with something, don't hesitate to reach out! Let's create something amazing together. 🚀💻
 
